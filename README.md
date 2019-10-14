@@ -1,5 +1,7 @@
 # store-env
 
+**This project is no longer necessary, as there's an Action provided by GitHub that does the same thing better.**
+
 > GitHub Action to store environment variables in .profile
 
 ## Basics
